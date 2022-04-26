@@ -1,0 +1,50 @@
+{
+  "books category": {
+    "Adult books": [
+      {
+        "name": "Mark of Cain",
+        "author": "Ram Oren",
+        "description": "The Mark of Cain (Hebrew: אות קין, Ot Ḳayin) is a bestselling novel by Israeli author Ram Oren: it was Israel's top paperback for five weeks; was in April 1996 'the fastest selling book in Israeli history'; and by 2008 had sold 100,000 copies. It is based on Neo-Nazi activities in Argentina and the identity of a Mossad chief, Michael Bornstein.",
+        "price": 120,
+        "available": true
+      },
+      {
+        "name": "The Appeal",
+        "author": "John Grisham",
+        "description": "The Appeal is a 2008 novel by John Grisham, his twenty first book and his first fictional legal thriller since The Broker was published in 2005. It was published by Doubleday and released in hardcover in the United States on January 29, 2008. A paperback edition was released by Delta Publishing on November 18, 2008.",
+        "price": 150,
+        "available": false
+      },
+      {
+        "name": "Central Park",
+        "author": "Guillaume Musso",
+        "description": "Central Park is an urban park in New York City, between the Upper West and Upper East Sides of Manhattan. It is the fifth largest park in the city, covering 843 acres (341 ha). It is the most visited urban park in the United States, with an estimated 42 million visitors annually as of 2016, and is the most filmed location in the world.",
+        "price": 90,
+        "available": true
+      }
+    ],
+    "Children's Books": [
+      {
+        "name": "A Tale of Five Balloons",
+        "author": "Miriam Roth",
+        "description": "A Tale of Five Balloons (Hebrew: מעשה בחמישה בלונים, Ma'ase b'Khamisha Balonim) is an Israeli children's book by Miriam Roth published in 1974 and illustrated by Ora Ayal. The book has become a classic of Israeli children's literature.",
+        "price": 40,
+        "available": false
+      },
+      {
+        "name": "The Giving Tree",
+        "author": "Shel Silverstein",
+        "description": "The Giving Tree is an American children's picture book written and illustrated by Shel Silverstein. First published in 1964 by Harper & Row, it has become one of Silverstein's best-known titles, and has been translated into numerous languages.",
+        "price": 20,
+        "available": true
+      },
+      {
+        "name": "Snow White and the Seven Dwarfs",
+        "author": "Wanda Gag",
+        "description": "Snow White and the Seven Dwarfs is a 1938 picture book written and illustrated by Wanda Gág and published by Coward-McCann. Snow White and the Seven Dwarfs was a Caldecott Medal Honor Book in 1939. The book is a twist on the classic tale of Snow White by the Brothers Grimm. Since then it has been republished several times, including in 1999, 2004, and 2013.",
+        "price": 30,
+        "available": true
+      }
+    ]
+  }
+}

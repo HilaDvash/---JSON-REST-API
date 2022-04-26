@@ -1,0 +1,7 @@
+{
+  "Delivery Books": {
+    "City": ["Tel Aviv", "Rishon Lezion", "Jerusalem", "Bat Yam", "Haifa"],
+    "Percentage discount": [5, 10, 15],
+    "Delivery-time": "Three to four days minimum"
+  }
+}
